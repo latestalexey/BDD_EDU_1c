@@ -4,6 +4,11 @@
 // http://infostart.ru/public/411063/
 // Статья "Регистрация запуска обработок во внешнем источнике данных"
 // "c:\Program Files (x86)\1cv8\8.3.6.2299"\bin\1cv8.exe config  /s kopt-app-01\mc_uat_tst /DumpConfigFiles unloads -Module 
+// Еще статьи 
+// Выгрузка/загрузка справочника "Внешние обработки". http://infostart.ru/public/177099/
+// Как выгрузить все внешние обработки в файлы на диск. http://j008.ru/ps/119_export_ext_modules
+
+
 Перем Настройки Экспорт;
 Перем Скрипт;
 Перем Версия;
