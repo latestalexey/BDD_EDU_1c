@@ -1,0 +1,7 @@
+﻿5bd70deb-159b-44f8-af68-c80c04bf9895.0\info-->und\5bd70deb-159b-44f8-af68-c80c04bf9895.0\info
+5bd70deb-159b-44f8-af68-c80c04bf9895.0\text-->ObjectModule.bsl
+900b54f5-475a-4622-a248-f993aa2ec1fe-->und\900b54f5-475a-4622-a248-f993aa2ec1fe
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
